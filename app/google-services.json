@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286858256943",
+    "project_id": "spreadlov-e3d23",
+    "storage_bucket": "spreadlov-e3d23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286858256943:android:725450a3a4ea9a829c1cda",
+        "android_client_info": {
+          "package_name": "com.spreadlov.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCenK-Q4fsEXTxXm4JLe-aaec1h1pPw5vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
